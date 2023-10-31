@@ -1,4 +1,4 @@
-# VZBot330AWD
+# VZBot330AWD   VZ.254
 Configuration backup for VZBot330AWD
 This printer started as a Tronxy X5SA back in the day. The initial conversion was to a VZBot 330.
 
